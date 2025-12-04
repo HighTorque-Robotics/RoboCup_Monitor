@@ -1,0 +1,16 @@
+{
+    "repo": "ZJUDancer/dmonitor",
+    "name": "dmonitor",
+    "workspace": "util",
+    "build": [],
+    "deps": {
+        "dmsgs": "ZJUDancer/dancer-msgs",
+        "dtransmit": "ZJUDancer/dancer-transmit",
+        "dcommon": "ZJUDancer/dancer-common",
+        "dconfig": "ZJUDancer/dancer-config",
+        "dancer-geometry": "ZJUDancer/dancer-geometry",
+        "sfml": "DancerDeps/SFML",
+        "fmt": "DancerDeps/fmt"
+    }
+}
+
