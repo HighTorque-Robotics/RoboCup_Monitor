@@ -1,4 +1,4 @@
-# dancer-monitor
+# monitor
 Monitor for displaying robot and competition status.
 
 ## Build
